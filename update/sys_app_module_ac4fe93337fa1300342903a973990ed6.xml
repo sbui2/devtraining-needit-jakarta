@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment display_value="Change Request Satisfaction Survey">ae1a2c44d7211100158ba6859e61038f</assessment>
+        <content_page display_value="Clean Login">464837320a0a0b1700effdcc590142c0</content_page>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>TIMELINE</link_type>
+        <map_page display_value="All locations">ffee7e4ec0a8000c007a8387549d440f</map_page>
+        <mobile_title>Another Content Page</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>150</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.needit_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-26 15:01:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ac4fe93337fa1300342903a973990ed6</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Another Content Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_ac4fe93337fa1300342903a973990ed6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-26 15:18:44</sys_updated_on>
+        <timeline_page display_value="Change Schedule">9bf95be60a0a0b53387951999530a57d</timeline_page>
+        <title>Another Content Page</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
